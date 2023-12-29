@@ -1,1 +1,1 @@
-"# Area-of-a-triangle" 
+Area-of-a-triangle 
